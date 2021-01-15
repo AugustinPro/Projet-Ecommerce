@@ -1,0 +1,82 @@
+main {
+    background-color: rgb(238, 238, 238);
+}
+
+.navColor {
+    background-color: #00C2FF;
+}
+
+.LLC {
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+.socials {
+    height: 40px;
+    width: 40px;
+}
+
+.item-box {
+    width: 122px;
+}
+
+.ski-desc {
+    font-size: 12px;
+}
+
+.ski-price {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.item-box .fas,
+.item-box .far {
+    font-size: 13px;
+}
+
+.second {
+    margin-right: 30px;
+}
+
+.mainerino {
+    overflow: scroll;
+}
+
+.add-cart {
+    background-color: #00A3EB;
+    border-color:  #00A3EB;
+}
+
+.map-city {
+    font-weight: bold;
+}
+
+.contact {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.maperino {
+    width: 100vw;
+}
+
+.yep1 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.infos img {
+    width: 100vw;
+}
+
+.linkerinos a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.linkerinos i,
+.linkerinos p {
+    text-decoration: none;
+    color: black;
+}
